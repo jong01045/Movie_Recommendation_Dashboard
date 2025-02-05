@@ -1,7 +1,9 @@
 # Movie_Recommendation_Dashboard
+## Project Charter
+A Project charter contains Introduction, Opportunity, Goals, Scope, Business Case, Constraints, Assumptions and Deliverables
+
+### Introduction
 Based on the user input, give movies that the user might be interested in.
-
-
 1. We are gonna build a Machine learning model with this data
    https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023/data
 
